@@ -30,6 +30,7 @@ for arr in array:
     
   print("\n")
 #--reimplement
+#--much better implementation for the address finding mechanism
 array = [[1,2,2,2,3],[5,4,3,2,3],[3,3,3,6,5]]
 biggercount = 1
 count = 1
